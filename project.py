@@ -7,5 +7,4 @@
 # I am passionate about playing games because their are so many 
 # different types of controls and pathways to go down to. 
 # I can utilize this passion to code because I can use my previous knowledge of games to modify or even 
-# build a better game.
-asdf
+# build a better game modify last game
