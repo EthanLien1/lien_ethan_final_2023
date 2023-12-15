@@ -126,11 +126,13 @@ keys.append(Piano_Key("page down","converted_wav_notes/_g5sharp.wav",85))
 keys.append(Piano_Key("insert","converted_wav_notes/_g6sharp.wav",86))
 keys.append(Piano_Key("home","converted_wav_notes/_g7sharp.wav",87))
 
+#loads and plays sounds
 win = pygame.display.set_mode((1300, 700))
 pygame.mixer.set_num_channels(88)
 pygame.display.update()
 while True:
   try:
+      #allow pygame to handle internal
       pygame.event.pump()
 
       for event in pygame.event.get():
