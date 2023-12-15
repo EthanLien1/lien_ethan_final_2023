@@ -57,3 +57,5 @@ Inspiration, code snippets, etc.
 * [LeMasterTech] https://www.youtube.com/watch?v=47c_1wOa2so&ab_channel=LeMasterTech
 * [pypiano] https://pypi.org/project/pypiano/
 * [pianoputerZulko] https://github.com/Zulko/pianoputer
+* [pygame] https://www.pygame.org/docs/
+
