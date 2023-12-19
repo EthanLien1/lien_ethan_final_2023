@@ -4,14 +4,13 @@ Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+I wanted to make a virtual piano which replicates a real one. 
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* I downloaded pygame
 
 ### Installing
 
@@ -21,7 +20,7 @@ An in-depth paragraph about your project and overview of use.
 ### Executing program
 
 * How to run the program
-* Step-by-step bullets
+  click the run symbol on the top
 ```
 code blocks for commands
 ```
@@ -29,6 +28,7 @@ code blocks for commands
 ## Help
 
 Any advise for common problems or issues.
+click the windows key to exit the program
 ```
 command to run if program contains helper info
 ```
@@ -37,7 +37,7 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-Ethan Lien
+Ethan Lien (E.Lien26@bcp.org)
 
 ## Version History
 
