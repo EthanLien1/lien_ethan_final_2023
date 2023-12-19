@@ -23,6 +23,7 @@ def find_piano_key(piano_key):
   for character in keys:
       if character.key == piano_key:
         return character
+# keys is a list
 keys = []
 # a keys
 # keys.append makes it so it adds key/value to the existing dictionary
